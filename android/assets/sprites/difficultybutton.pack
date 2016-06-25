@@ -1,0 +1,33 @@
+
+difficultybutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+black
+  rotate: false
+  xy: 1, 1
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+dark
+  rotate: false
+  xy: 107, 1
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+gray
+  rotate: false
+  xy: 213, 1
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 319, 1
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1

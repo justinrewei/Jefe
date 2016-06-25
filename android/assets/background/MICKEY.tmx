@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="13" tilewidth="16" tileheight="16" nextobjectid="74">
+ <tileset firstgid="1" name="dirt" tilewidth="16" tileheight="16" tilecount="100" columns="10">
+  <image source="dirt.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="101" name="dirt" tilewidth="16" tileheight="16" tilecount="100" columns="10">
+  <image source="dirt.png" width="160" height="160"/>
+ </tileset>
+ <layer name="background" width="30" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBwAPNLAQITxaDiPhjOtwGg40wcMVDgDANBbAJc=
+  </data>
+ </layer>
+ <objectgroup name="ground">
+  <object id="57" x="0" y="192" width="480" height="16"/>
+  <object id="61" x="17" y="-55.8333" width="43.5" height="263.333"/>
+  <object id="65" x="480" y="-12" height="220"/>
+  <object id="70" x="0" y="-64" width="476.667" height="42.6667"/>
+  <object id="73" x="178.25" y="-54.1665" width="43.5" height="263.333"/>
+ </objectgroup>
+ <objectgroup name="collisionground"/>
+</map>
